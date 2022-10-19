@@ -1,5 +1,5 @@
 # CSPC483
-Introduction to Machine Learning
+## Introduction to Machine Learning
 
 Using the Boston house prices dataset
 
